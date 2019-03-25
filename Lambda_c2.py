@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
 def add(arg1, arg2):
     return arg1 + arg2
 
