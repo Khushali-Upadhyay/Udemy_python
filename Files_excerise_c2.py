@@ -1,8 +1,3 @@
-
-
-# In[ ]:
-
-
 #Task-1 Compare two txt files
 
 
