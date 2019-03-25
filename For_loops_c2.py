@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
 # In[1]:
 
 
@@ -178,19 +175,6 @@ for c in range(4):
     print(cats[c].capitalize(), "\n Level: \n", endangered[c].upper())
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
