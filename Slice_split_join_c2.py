@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 robot = "technologically"
 consoles = "ps4 is cooler than xbox!"
 code = "p1y2t3h4o5n6i7c8"
