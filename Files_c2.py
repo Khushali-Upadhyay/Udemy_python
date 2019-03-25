@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
 desk = "C:/Users/khushali/Desktop/"
 f = open(desk +"first.txt", "w")
 print(f)
@@ -104,20 +98,6 @@ end = d.readlines()
 d.close()
 #Will be able to write and read
 
-
-# In[ ]:
-
-
-
-
-
-# In[26]:
-
-
-
-
-
-# In[ ]:
 
 
 
