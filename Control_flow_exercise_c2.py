@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[6]:
-
-
 #Control flow with dictionary:
 d1 = {"k1": [1, 2, 3, (100, 300, 500)], "k2": [4, 5, 6, ["phone", "computer", "robot"]]}
 var = eval(input("Enter a number:"))
