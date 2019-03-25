@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[4]:
-
-
 for num in range(40):
     if num > 10 and num <= 20:
         if num == 16:
