@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[3]:
-
-
 tup1 = 10, 20, 30, 40
 tup1
 
@@ -117,19 +111,6 @@ TypeError                                 Traceback (most recent call last)
 TypeError: 'tuple' object does not support item assignment
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
