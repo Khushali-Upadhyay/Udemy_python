@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
 d1 = {}
 d1["A"] = 10
 d1["B"] = 20
