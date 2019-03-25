@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[4]:
-
-
 cat = "meow"; dog = "woof" ; parrot = "hello"
 print(cat, dog, parrot,sep = ",",end = "!")
 print()
