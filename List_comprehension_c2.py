@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 cosmos = []
 for i in "universe":
     cosmos.append(i)
