@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
 # In[2]:
 
 
@@ -249,25 +246,8 @@ Enter the number2
 2 in list one
 
 
-# In[ ]:
 
 
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
