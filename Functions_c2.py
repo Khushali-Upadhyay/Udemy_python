@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
 # In[1]:
 
 
@@ -107,19 +104,6 @@ Enter the time:12
 Afternoon!
 1728
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
