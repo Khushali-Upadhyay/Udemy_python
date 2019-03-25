@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 #Task-1:Add all dictionary values
 
 
@@ -167,37 +161,7 @@ sentence.format("pizza", "chips", "$" + str(p+c+d)).replace("??", "").replace("#
 
 '"The bill for the pizza, chips  and drink came to $15.5'
 
-# In[ ]:
 
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
