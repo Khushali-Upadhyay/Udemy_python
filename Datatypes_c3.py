@@ -1,10 +1,9 @@
 Python 3.7.3 (v3.7.3:ef4ec6ed12, Mar 25 2019, 22:22:05) [MSC v.1916 64 bit (AMD64)] on win32
 Type "help", "copyright", "credits" or "license()" for more information.
 >>> #Datatypes in Python
->>> #None type whic does not contain any value
+>>> #None type which does not contain any value
 >>> #Numeric type which contain integer, float, complex
 >>> #Sequences which contain str, bytes, bytearray, list,tuple, range
->>> #Sets
 >>> #Mapping which is used to map and reduce
 >>> #Sets which do not allow duplicates
 >>> #Numeric datatypes
